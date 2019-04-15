@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/boogaloo</item>
+        <item>@font/cairo_semibold</item>
+        <item>@font/cardo_bold</item>
+        <item>@font/im_fell_french_canon</item>
+        <item>@font/lato_bold_italic</item>
+    </array>
+</resources>

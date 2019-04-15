@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">a5b5fbb32be5c1657796a7c9c5d1577f4bea2b07</string>
+    <string name="back4app_client_key">5c399c61d622e2544dfd53dae1b9c5f2ef7ea301</string>
+
+    <string name="app_name">OMNI__SERVICES</string>
+
+</resources>
